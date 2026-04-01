@@ -19,9 +19,9 @@ It provides a smooth shopping experience with intuitive navigation, real-time me
 
 <p float="left">
   <b>Home Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Details Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Details Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Details Page</b>
+  <b>Product Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Message Page</b>&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Cart Page</b>
 </p>
 
 ---
